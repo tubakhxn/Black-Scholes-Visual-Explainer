@@ -1,5 +1,8 @@
 
 # Black-Scholes Visual Explainer
+<img width="2968" height="1621" alt="Screenshot 2026-02-12 201557" src="https://github.com/user-attachments/assets/fa1dbf50-9bb3-4b78-9df6-2373ba9f27e7" />
+
+<img width="2987" height="1670" alt="Screenshot 2026-02-12 201604" src="https://github.com/user-attachments/assets/79c37454-ca0b-4602-8ed9-9a3faf2ef24b" />
 
 ## Developer: tubakhxn
 
@@ -81,3 +84,4 @@ Where $N(x)$ is the cumulative distribution function of the standard normal dist
 ---
 
 **Made by tubakhxn**
+
